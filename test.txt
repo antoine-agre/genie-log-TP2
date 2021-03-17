@@ -1,0 +1,2 @@
+Le fichier 1_AntoineAGRE.txt n'est pas dans la branche main, car il a été commit seulement dans la branche mon_fichier.
+Il faudrait merge cette branche pour que ce fichier se retrouve dans la branche principale (main).
